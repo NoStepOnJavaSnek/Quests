@@ -1,0 +1,34 @@
+body {
+    background: black;
+    color: white;
+}
+
+.poster {
+    background-color: rgb(199, 153, 94);
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: left;
+    padding: 10px;
+    color: rgb(90, 36, 23);
+    font-family: "libre-baskerville-regular", serif;
+}
+
+hr {
+    height: 3px;
+    width: 97%;
+    background-color: rgb(139, 74, 58);
+    border: none;
+    border-radius: 50px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+h3, h4 {
+    display: inline;
+    padding-left: 4px;
+}
+
+h1, h2 {
+    padding-left: 4px;
+}
